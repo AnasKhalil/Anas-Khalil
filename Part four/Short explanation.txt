@@ -1,0 +1,11 @@
+This collection consists of two GET requests:
+1. Best buy products
+   Test cases list: 1. Checking request response code is correct
+		    2. Checking request response time is < 250ms
+		    3. A group of test cases checking response body for all products availability
+		    4. Checking response body for all battery categories
+
+2. Best buy services
+   Test cases list: 1. Checking request response code is correct
+		    2. Checking request response time is < 9ms
+		    3. A group of test cases checking response body for all services availability

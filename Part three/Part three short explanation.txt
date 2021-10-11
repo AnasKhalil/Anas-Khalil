@@ -1,0 +1,12 @@
+There are four scenarios used to test the Facebook login:
+1. All fields are left empty (negative)
+2. Entering a correct email & an incorrect password (negative)
+3. Entering an incorrect email & a correct password (negative)
+4. Entering a correct email and a correct password (positive)
+
+There are three scenarios used to test the Facebook registration:
+1. All fields are left empty (negative)
+2. Entering an invalid email format (negative)
+3. Entering valid data in all fields (positive)
+
+IMPORTANT NOTE:- Kindly run each test case/scenario separatly as I did not add a testng.xml file
